@@ -2,8 +2,8 @@
 This is my personal list of resources inspired by various awesome lists on GitHub.  
 *Note: ✓ denotes something I have personally used before*
 ### Contents
-- Frameworks
-- Wordpress
+- [Frameworks](#frameworks)
+- [Wordpress](#wordpress-frameworks)
   - [Frameworks](#wordpress-frameworks)
 
 ## Frameworks
