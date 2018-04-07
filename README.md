@@ -2,11 +2,17 @@
 This is my personal list of resources inspired by various awesome lists on GitHub.  
 *Note: ✓ denotes something I have personally used before*
 ### Contents
+- [Preprocessors](#preprocessors)
+  - [HTML](#html-preprocessors)
 - [Frameworks](#frameworks)
 - [Wordpress](#wordpress)
   - [Frameworks](#wordpress-frameworks)
 - [Articles & Tutorials](#articles--tutorials)
   - [Tumblr](#tumblr)
+
+## Preprocessors
+### HTML Preprocessors
+* [Pug](https://pugjs.org/) ✓ - Clean and whitespace sensitive html preprocessors formerly known as Jade.
 
 ## Frameworks
 * [W3.CSS](https://www.w3schools.com/w3css/) - This is a CSS framework by w3 schools. It has several gorgeous example [templates](https://www.w3schools.com/w3css/w3css_templates.asp) which display wonderfully on the my mobile device.
