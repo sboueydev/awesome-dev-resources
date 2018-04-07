@@ -5,7 +5,7 @@ This is my personal list of resources inspired by various awesome lists on GitHu
 - [Frameworks](#frameworks)
 - [Wordpress](#wordpress)
   - [Frameworks](#wordpress-frameworks)
-- [Articles & Tutorials](#articles-tutorials)
+- [Articles & Tutorials](#articles--tutorials)
   - [Tumblr](#tumblr)
 
 ## Frameworks
