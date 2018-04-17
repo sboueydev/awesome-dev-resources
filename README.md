@@ -8,7 +8,7 @@ This is my personal list of resources inspired by various awesome lists on GitHu
 - [Wordpress](#wordpress)
   - [Frameworks](#wordpress-frameworks)
 - [Articles & Tutorials](#articles--tutorials)
-  - [Cheatsheets](#cheatsheets) 
+  - [Cheatsheets, References, and Docs](#) 
   - [Tumblr](#tumblr)
 
 ## Preprocessors
@@ -29,11 +29,12 @@ This is my personal list of resources inspired by various awesome lists on GitHu
 * [Gantry](http://gantry.org/) - Free framework. Includes drag and drop capabilities and works with Grav and Joomla as well as Wordpress.
 
 ## Articles & Tutorials
-### Cheatsheets
+### Cheatsheets, References, and Docs
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 * [Github Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) 
 * [My Github Cheatsheet](https://github.com/sboueydev/github-cheatsheet) - This is the git and github guide I made for myself.
 * [My Docker Cheatsheet](https://github.com/sboueydev/docker-cheatsheet) - This is the Docker guide I made for myself.
+* [Heroku deploy using Git guide](https://devcenter.heroku.com/articles/git)
 ### Tumblr
 * [Official Documentation - Custom Theme](https://www.tumblr.com/docs/en/custom_themes)
 * [Custom Theme Tutorial by Eris](http://themesbyeris.tumblr.com/tutorial01)
