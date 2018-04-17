@@ -8,7 +8,7 @@ This is my personal list of resources inspired by various awesome lists on GitHu
 - [Wordpress](#wordpress)
   - [Frameworks](#wordpress-frameworks)
 - [Articles & Tutorials](#articles--tutorials)
-  - [Cheatsheets, References, and Docs](#) 
+  - [Cheatsheets, References, and Docs](#cheatsheets-references-and-docs) 
   - [Tumblr](#tumblr)
 
 ## Preprocessors
