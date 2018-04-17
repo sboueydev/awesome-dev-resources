@@ -32,6 +32,7 @@ This is my personal list of resources inspired by various awesome lists on GitHu
 ### Cheatsheets
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 * [Github Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) 
+* [My Github Cheatsheet](https://github.com/sboueydev/github-cheatsheet) - This is the git and github guide I made for myself.
 * [My Docker Cheatsheet](https://github.com/sboueydev/docker-cheatsheet) - This is the Docker guide I made for myself.
 ### Tumblr
 * [Official Documentation - Custom Theme](https://www.tumblr.com/docs/en/custom_themes)
